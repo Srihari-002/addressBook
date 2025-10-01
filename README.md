@@ -92,3 +92,7 @@ The system uses a **menu-driven interface** to perform the following operations:
 ├── file.c // File handling: load & save contacts
 ├── file.h // Header for file operations
 ├── contacts.csv // Saved contact data (auto-generated)
+
+📸 Project Media Sample Terminal Output
+
+<img width="1390" height="747" alt="Screenshot 2025-10-01 175242" src="https://github.com/user-attachments/assets/ccb85be2-fd4c-477a-81d6-0032b3f9e8e2" />
