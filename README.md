@@ -96,3 +96,37 @@ The system uses a **menu-driven interface** to perform the following operations:
 📸 Project Media Sample Terminal Output
 
 <img width="1390" height="747" alt="Screenshot 2025-10-01 175242" src="https://github.com/user-attachments/assets/ccb85be2-fd4c-477a-81d6-0032b3f9e8e2" />
+<img width="1400" height="323" alt="Screenshot 2025-10-01 180235" src="https://github.com/user-attachments/assets/e794fd30-d296-4f26-9c17-6be54b6adee8" />
+<img width="1333" height="652" alt="Screenshot 2025-10-01 180801" src="https://github.com/user-attachments/assets/2ec8b7b6-b7e6-4170-b2d5-39b1de0afab3" />
+
+Future Scope
+
+Future Scope
+
+Upgrade from command-line interface to GUI for better usability.
+
+Integrate with databases (MySQL/SQLite) to handle large data efficiently.
+
+Add advanced search and filter options for quick data retrieval.
+
+Introduce contact grouping and tagging for better organization.
+
+Support import/export of contacts in VCF or Excel formats.
+
+Provide cloud synchronization and automated backup for data safety.
+
+Implement encryption and password protection for secure access.
+
+Extend access through mobile and web applications.
+
+Enable integration with communication tools (call, email, messaging).
+
+Add AI-powered features like duplicate detection and auto-fill of details.
+
+Support voice-command based contact search for convenience.
+
+Improve scalability to handle thousands of contacts smoothly.
+
+👩‍💻 Developed By AMRUTHAPURI SRIHARI Graduate Engineer – Embedded Systems Enthusiast 📧 hariamruthapuri@gmail.com
+
+
